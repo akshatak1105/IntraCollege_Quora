@@ -1,0 +1,52 @@
+
+.about{
+    width:100%;
+    text-align: center;
+    padding: 30px 0;
+    /* background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(vit2.jpg); */
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(vit2.jpg);
+    background-size: cover;
+    margin-top: 10px;
+    /* margin-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    
+}
+.about h2{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+.about pre{
+    font-weight: 20px;
+    font-size: medium;
+    /* background: linear-gradient(rgba(105, 107, 116, 0.7),rgba(100, 102, 112, 0.7));
+     */
+    
+    /* background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(vit2.jpg); */
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+}
+
+.about1{
+    width: 90%;
+    color:#fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align:center;
+}
+
+.about1 h3{
+    font-size: 30px;
+}
+
+.about1 pre{
+    margin: 10px 0 40px ;
+    font-size: 15px;
+}
+
